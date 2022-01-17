@@ -1,0 +1,4 @@
+[build]
+base = 'frontend'
+command = 'yarm build'
+publish = 'frontend/build'
